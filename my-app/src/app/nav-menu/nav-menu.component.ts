@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavMenuComponent implements OnInit {
 
-  my_list = [
+  myList = [
     {id:'1', txt: 'Button1'},
     {id:'1', txt: 'Button2'},
     {id:'1', txt: 'Button3'},
